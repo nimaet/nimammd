@@ -1,0 +1,6 @@
+ITEM NO.	PART NUMBER	DESCRIPTION	QTY.
+1	ball-femael-end		1
+2	ball-male-thread		2
+3	link		2
+4	Stand		1
+5	ball-femael-thread		2
